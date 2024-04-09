@@ -1,0 +1,53 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 100px;
+    font-style: ;
+}
+p{
+    color:antiquewhite;
+    font-size: 50px;
+    text-align: center;
+
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+body{
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.err{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    column-gap: 5px;
+}
+h1.a{
+    color:darkblue;
+    font-size: 50px;
+
+}
+p.a{
+    color: antiquewhite;
+    font-size: 20px;
+}
+h2{
+    color: darkblue;
+    background-color: darkcyan;
+    font-size: 70px;
+    text-align: center;
+
+}
+h1.abcd{
+    font-size: 50px;
+}
+a{
+    font-size: 40px;
+    text-align: right;
+    color: darkcyan;
+}
