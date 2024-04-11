@@ -1,4 +1,4 @@
-i html and css for designing the website.
+i used html and css for designing the website.
 i use react js for the google form.
 App.js file is task2.
 index.html file is task 1.
